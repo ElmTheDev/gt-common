@@ -1,8 +1,9 @@
 package chttp
 
 import (
-    "fmt"
-    "zhaojunlike/common"
+	"fmt"
+
+	common "github.com/ElmTheDev/gt-common"
 )
 
 type Proxy struct {

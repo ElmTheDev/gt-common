@@ -1,4 +1,4 @@
-module github.com/godtoy/gt-common
+module github.com/ElmTheDev/gt-common
 
 go 1.13
 

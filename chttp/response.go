@@ -1,8 +1,9 @@
 package chttp
 
 import (
-    "net/http"
-    "zhaojunlike/common"
+	"net/http"
+
+	common "github.com/ElmTheDev/gt-common"
 )
 
 //响应

@@ -1,10 +1,9 @@
 package assets
 
 import (
-    "fmt"
-    "net/http"
-    "testing"
-    _ "zhaojunlike/snkrs/assets/server/statik"
+	"fmt"
+	"net/http"
+	"testing"
 )
 
 func TestLoad(t *testing.T) {
